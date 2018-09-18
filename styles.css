@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>HTML</title>
+<style type="text/css">
+   .h11{
+       color:white;
+       margin: 0px 0px 0px 0px;
+       padding-top: 35px;
+       background:rgb(0, 0, 0);
+       height:80px;
+       text-align: center
+   }
+   .h1{
+       color:white;
+       margin: 10px 0px 0px 20px;
+       padding-top: 5px;
+       background:rgba(182, 102, 128, 0.151);
+       width: 80%
+   }
+   #left{
+       clear: both;
+       float: left;
+       background-color: rgb(153, 3, 3);
+       height: 768px;  
+       text-align: center;
+       width: 20%;
+   }
+</style>
+</head>
+<body>
+<h1 class="h11">ISODGAF</h1>
+<div id="left">
+<h2>Contact Me:</h2>
+<p>
+   <li class="h1">Phone : <a style="color: white; text-decoration: none;" href="">(314)600.7878</a></li>
+   <li class="h1">Email : <a style="color: yellow; text-decoration: none;" href="">producedbyiso@gmail.com</a></li>
+   <li class="h1">Website : <a style="color: white; text-decoration: none;" href="">www.isoartistic.com</a></li>
+</p>
+<img style="padding: 0 15px; float: left;" src="images/IMG_0985.JPG" height="400" width="400">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJvuyVQLUxo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
